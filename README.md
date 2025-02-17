@@ -1,5 +1,7 @@
 # Tata Data Visualization Internship
 
+![](https://github.com/Lucky-akash321/TATA-Data-Visualization/blob/main/tata-logo-sign-A64W6H.jpg)
+
 ## Overview
 
 The Tata Data Visualization Internship is an opportunity for aspiring data scientists, analysts, and engineers to work on real-world projects involving data analysis and visualization. This internship focuses on exploring datasets, extracting meaningful insights, and creating interactive dashboards and visualizations to help business leaders make informed decisions. The project includes learning and applying various data visualization tools and techniques to present data in a compelling and insightful manner.
