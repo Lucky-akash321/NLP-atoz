@@ -28,6 +28,8 @@ The goal is to assist Tata Group leaders, especially the CEO and CMO, in making 
 - **SQL** (for data querying)
 - **Excel** (for preliminary analysis)
 
+![](https://github.com/Lucky-akash321/TATA-Data-Visualization/blob/main/TATA2.jpeg)
+
 ## Tata Group History
 
 The **Tata Group** is one of India's largest and most well-established conglomerates, with a rich history of over 150 years. Founded in 1868 by **Jamsetji Tata**, the group has grown into a multinational corporation with a diverse portfolio spanning industries such as steel, automotive, information technology, telecommunications, hospitality, energy, and more.
