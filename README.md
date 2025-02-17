@@ -19,6 +19,8 @@ The goal is to assist Tata Group leaders, especially the CEO and CMO, in making 
 - **Visualization**: Create various charts, graphs, and dashboards to visualize trends, distributions, and comparisons.
 - **Insight Generation**: Analyze the visualized data to uncover insights that can influence business strategy.
 
+![](https://github.com/Lucky-akash321/TATA-Data-Visualization/blob/main/TATA.jpeg)
+
 ## Tools & Technologies
 
 - **Tableau** / **Power BI**
